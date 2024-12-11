@@ -5,7 +5,8 @@
           "name": "Student 1",
           "department": "Electronics",
           "year": 2024,
-          "seat_number": "A-001"
+          "seat_number": "A-001",
+          "id": 1
       },
       {
           "registration_number": "U20230002",
@@ -1401,7 +1402,8 @@
           "seat_number": "A-200"
       }
     ],
-    "user" : [
+
+    "Users" : [
       {
         "name" : "haripriya",
         "mail" : "priya@gmail.com",
