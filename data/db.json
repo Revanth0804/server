@@ -1808,5 +1808,12 @@
       "password": "priya1",
       "id": "00e4"
     }
+  ],
+  "Admin": [
+    {
+      "mail": "admin@gmail.com",
+      "password": "admin",
+      "id":"1"
+    }
   ]
 }
