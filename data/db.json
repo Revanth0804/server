@@ -1,19 +1,20 @@
 {
   "Student": [
     {
-      "registrationNumber": "U20230151",
-      "studentName": "wedtgs",
-      "email": "dinesh12@gmail.com",
+      "registration_number": "U20230001",
+      "name": "Student 1",
+      "department": "Mechanical",
       "year": 2024,
-      "profilePicture": "blob:http://localhost:5174/f40b1835-81ef-452d-8687-02018fcadb5b",
-      "id": "1"
+      "seat_number": "A1",
+      "id": "1",
+      "email": "U20230001@university.edu"
     },
     {
       "registration_number": "U20230002",
       "name": "Student 2",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-002",
+      "seat_number": "A2",
       "id": "2",
       "email": "U20230002@university.edu"
     },
@@ -22,7 +23,7 @@
       "name": "Student 3",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-003",
+      "seat_number": "A3",
       "id": "3",
       "email": "U20230003@university.edu"
     },
@@ -31,7 +32,7 @@
       "name": "Student 4",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-004",
+      "seat_number": "A4",
       "id": "4",
       "email": "U20230004@university.edu"
     },
@@ -40,7 +41,7 @@
       "name": "Student 5",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-005",
+      "seat_number": "A5",
       "id": "5",
       "email": "U20230005@university.edu"
     },
@@ -49,7 +50,7 @@
       "name": "Student 6",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-006",
+      "seat_number": "A6",
       "id": "6",
       "email": "U20230006@university.edu"
     },
@@ -58,7 +59,7 @@
       "name": "Student 7",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-007",
+      "seat_number": "A7",
       "id": "7",
       "email": "U20230007@university.edu"
     },
@@ -67,7 +68,7 @@
       "name": "Student 8",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-008",
+      "seat_number": "A8",
       "id": "8",
       "email": "U20230008@university.edu"
     },
@@ -76,7 +77,7 @@
       "name": "Student 9",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-009",
+      "seat_number": "A9",
       "id": "9",
       "email": "U20230009@university.edu"
     },
@@ -85,7 +86,7 @@
       "name": "Student 10",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-010",
+      "seat_number": "A10",
       "id": "10",
       "email": "U20230010@university.edu"
     },
