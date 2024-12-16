@@ -95,7 +95,7 @@
       "name": "Student 11",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-011",
+      "seat_number": "A11",
       "id": "11",
       "email": "U20230011@university.edu"
     },
@@ -104,7 +104,7 @@
       "name": "Student 12",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-012",
+      "seat_number": "A12",
       "id": "12",
       "email": "U20230012@university.edu"
     },
@@ -113,7 +113,7 @@
       "name": "Student 13",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-013",
+      "seat_number": "A13",
       "id": "13",
       "email": "U20230013@university.edu"
     },
@@ -122,7 +122,7 @@
       "name": "Student 14",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-014",
+      "seat_number": "A14",
       "id": "14",
       "email": "U20230014@university.edu"
     },
@@ -131,7 +131,7 @@
       "name": "Student 15",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-015",
+      "seat_number": "A15",
       "id": "15",
       "email": "U20230015@university.edu"
     },
@@ -140,7 +140,7 @@
       "name": "Student 16",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-016",
+      "seat_number": "A16",
       "id": "16",
       "email": "U20230016@university.edu"
     },
@@ -149,7 +149,7 @@
       "name": "Student 17",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-017",
+      "seat_number": "A17",
       "id": "17",
       "email": "U20230017@university.edu"
     },
@@ -158,7 +158,7 @@
       "name": "Student 18",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-018",
+      "seat_number": "A18",
       "id": "18",
       "email": "U20230018@university.edu"
     },
@@ -167,7 +167,7 @@
       "name": "Student 19",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-019",
+      "seat_number": "A19",
       "id": "19",
       "email": "U20230019@university.edu"
     },
@@ -176,7 +176,7 @@
       "name": "Student 20",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-020",
+      "seat_number": "A20",
       "id": "20",
       "email": "U20230020@university.edu"
     },
@@ -185,7 +185,7 @@
       "name": "Student 21",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-021",
+      "seat_number": "B1",
       "id": "21",
       "email": "U20230021@university.edu"
     },
@@ -194,7 +194,7 @@
       "name": "Student 22",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-022",
+      "seat_number": "B2",
       "id": "22",
       "email": "U20230022@university.edu"
     },
@@ -203,7 +203,7 @@
       "name": "Student 23",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-023",
+      "seat_number": "B3",
       "id": "23",
       "email": "U20230023@university.edu"
     },
@@ -212,7 +212,7 @@
       "name": "Student 24",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-024",
+      "seat_number": "B4",
       "id": "24",
       "email": "U20230024@university.edu"
     },
@@ -221,7 +221,7 @@
       "name": "Student 25",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-025",
+      "seat_number": "B5",
       "id": "25",
       "email": "U20230025@university.edu"
     },
@@ -230,7 +230,7 @@
       "name": "Student 26",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-026",
+      "seat_number": "B6",
       "id": "26",
       "email": "U20230026@university.edu"
     },
@@ -239,7 +239,7 @@
       "name": "Student 27",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-027",
+      "seat_number": "B7",
       "id": "27",
       "email": "U20230027@university.edu"
     },
@@ -248,7 +248,7 @@
       "name": "Student 28",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-028",
+      "seat_number": "B8",
       "id": "28",
       "email": "U20230028@university.edu"
     },
@@ -257,7 +257,7 @@
       "name": "Student 29",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-029",
+      "seat_number": "B9",
       "id": "29",
       "email": "U20230029@university.edu"
     },
@@ -266,7 +266,7 @@
       "name": "Student 30",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-030",
+      "seat_number": "B10",
       "id": "30",
       "email": "U20230030@university.edu"
     },
@@ -275,7 +275,7 @@
       "name": "Student 31",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-031",
+      "seat_number": "B11",
       "id": "31",
       "email": "U20230031@university.edu"
     },
@@ -284,7 +284,7 @@
       "name": "Student 32",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-032",
+      "seat_number": "B12",
       "id": "32",
       "email": "U20230032@university.edu"
     },
@@ -293,7 +293,7 @@
       "name": "Student 33",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-033",
+      "seat_number": "B13",
       "id": "33",
       "email": "U20230033@university.edu"
     },
@@ -302,7 +302,7 @@
       "name": "Student 34",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-034",
+      "seat_number": "B14",
       "id": "34",
       "email": "U20230034@university.edu"
     },
@@ -311,7 +311,7 @@
       "name": "Student 35",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-035",
+      "seat_number": "B15",
       "id": "35",
       "email": "U20230035@university.edu"
     },
@@ -320,7 +320,7 @@
       "name": "Student 36",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-036",
+      "seat_number": "B16",
       "id": "36",
       "email": "U20230036@university.edu"
     },
@@ -329,7 +329,7 @@
       "name": "Student 37",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-037",
+      "seat_number": "B17",
       "id": "37",
       "email": "U20230037@university.edu"
     },
@@ -338,7 +338,7 @@
       "name": "Student 38",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-038",
+      "seat_number": "B18",
       "id": "38",
       "email": "U20230038@university.edu"
     },
@@ -347,7 +347,7 @@
       "name": "Student 39",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-039",
+      "seat_number": "B19",
       "id": "39",
       "email": "U20230039@university.edu"
     },
@@ -356,7 +356,7 @@
       "name": "Student 40",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-040",
+      "seat_number": "B20",
       "id": "40",
       "email": "U20230040@university.edu"
     },
@@ -365,7 +365,7 @@
       "name": "Student 41",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-041",
+      "seat_number": "C1",
       "id": "41",
       "email": "U20230041@university.edu"
     },
@@ -374,7 +374,7 @@
       "name": "Student 42",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-042",
+      "seat_number": "C2",
       "id": "42",
       "email": "U20230042@university.edu"
     },
@@ -383,7 +383,7 @@
       "name": "Student 43",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-043",
+      "seat_number": "C3",
       "id": "43",
       "email": "U20230043@university.edu"
     },
@@ -392,7 +392,7 @@
       "name": "Student 44",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-044",
+      "seat_number": "C4",
       "id": "44",
       "email": "U20230044@university.edu"
     },
@@ -401,7 +401,7 @@
       "name": "Student 45",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-045",
+      "seat_number": "C5",
       "id": "45",
       "email": "U20230045@university.edu"
     },
@@ -410,7 +410,7 @@
       "name": "Student 46",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-046",
+      "seat_number": "C6",
       "id": "46",
       "email": "U20230046@university.edu"
     },
@@ -419,7 +419,7 @@
       "name": "Student 47",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-047",
+      "seat_number": "C7",
       "id": "47",
       "email": "U20230047@university.edu"
     },
@@ -428,7 +428,7 @@
       "name": "Student 48",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-048",
+      "seat_number": "C8",
       "id": "48",
       "email": "U20230048@university.edu"
     },
@@ -437,7 +437,7 @@
       "name": "Student 49",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-049",
+      "seat_number": "C9",
       "id": "49",
       "email": "U20230049@university.edu"
     },
@@ -446,7 +446,7 @@
       "name": "Student 50",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-050",
+      "seat_number": "C10",
       "id": "50",
       "email": "U20230050@university.edu"
     },
@@ -455,7 +455,7 @@
       "name": "Student 51",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-051",
+      "seat_number": "C11",
       "id": "51",
       "email": "U20230051@university.com"
     },
@@ -464,7 +464,7 @@
       "name": "Student 52",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-052",
+      "seat_number": "C12",
       "id": "52",
       "email": "U20230052@university.com"
     },
@@ -473,7 +473,7 @@
       "name": "Student 53",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-053",
+      "seat_number": "C13",
       "id": "53",
       "email": "U20230053@university.com"
     },
@@ -482,7 +482,7 @@
       "name": "Student 54",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-054",
+      "seat_number": "C14",
       "id": "54",
       "email": "U20230054@university.com"
     },
@@ -491,7 +491,7 @@
       "name": "Student 55",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-055",
+      "seat_number": "C15",
       "id": "55",
       "email": "U20230055@university.com"
     },
@@ -500,7 +500,7 @@
       "name": "Student 56",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-056",
+      "seat_number": "C16",
       "id": "56",
       "email": "U20230056@university.com"
     },
@@ -509,7 +509,7 @@
       "name": "Student 57",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-057",
+      "seat_number": "C17",
       "id": "57",
       "email": "U20230057@university.com"
     },
@@ -518,7 +518,7 @@
       "name": "Student 58",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-058",
+      "seat_number": "C18",
       "id": "58",
       "email": "U20230058@university.com"
     },
@@ -527,7 +527,7 @@
       "name": "Student 59",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-059",
+      "seat_number": "C19",
       "id": "59",
       "email": "U20230059@university.com"
     },
@@ -536,7 +536,7 @@
       "name": "Student 60",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-060",
+      "seat_number": "C20",
       "id": "60",
       "email": "U20230060@university.com"
     },
@@ -545,7 +545,7 @@
       "name": "Student 61",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-061",
+      "seat_number": "D1",
       "id": "61",
       "email": "U20230061@university.com"
     },
@@ -554,7 +554,7 @@
       "name": "Student 62",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-062",
+      "seat_number": "D2",
       "id": "62",
       "email": "U20230062@university.com"
     },
@@ -563,7 +563,7 @@
       "name": "Student 63",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-063",
+      "seat_number": "D3",
       "id": "63",
       "email": "U20230063@university.com"
     },
@@ -572,7 +572,7 @@
       "name": "Student 64",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-064",
+      "seat_number": "D4",
       "id": "64",
       "email": "U20230064@university.com"
     },
@@ -581,7 +581,7 @@
       "name": "Student 65",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-065",
+      "seat_number": "D5",
       "id": "65",
       "email": "U20230065@university.com"
     },
@@ -590,7 +590,7 @@
       "name": "Student 66",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-066",
+      "seat_number": "D6",
       "id": "66",
       "email": "U20230066@university.com"
     },
@@ -599,7 +599,7 @@
       "name": "Student 67",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-067",
+      "seat_number": "D7",
       "id": "67",
       "email": "U20230067@university.com"
     },
@@ -608,7 +608,7 @@
       "name": "Student 68",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-068",
+      "seat_number": "D8",
       "id": "68",
       "email": "U20230068@university.com"
     },
@@ -617,7 +617,7 @@
       "name": "Student 69",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-069",
+      "seat_number": "D9",
       "id": "69",
       "email": "U20230069@university.com"
     },
@@ -626,7 +626,7 @@
       "name": "Student 70",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-070",
+      "seat_number": "D10",
       "id": "70",
       "email": "U20230070@university.com"
     },
@@ -635,7 +635,7 @@
       "name": "Student 71",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-071",
+      "seat_number": "D11",
       "id": "71",
       "email": "U20230071@university.com"
     },
@@ -644,7 +644,7 @@
       "name": "Student 72",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-072",
+      "seat_number": "D12",
       "id": "72",
       "email": "U20230072@university.com"
     },
@@ -653,7 +653,7 @@
       "name": "Student 73",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-073",
+      "seat_number": "D13",
       "id": "73",
       "email": "U20230073@university.com"
     },
@@ -662,7 +662,7 @@
       "name": "Student 74",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-074",
+      "seat_number": "D14",
       "id": "74",
       "email": "U20230074@university.com"
     },
@@ -671,7 +671,7 @@
       "name": "Student 75",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-075",
+      "seat_number": "D15",
       "id": "75",
       "email": "U20230075@university.com"
     },
@@ -680,7 +680,7 @@
       "name": "Student 76",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-076",
+      "seat_number": "D16",
       "id": "76",
       "email": "U20230076@university.com"
     },
@@ -689,7 +689,7 @@
       "name": "Student 77",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-077",
+      "seat_number": "D17",
       "id": "77",
       "email": "U20230077@university.com"
     },
@@ -698,7 +698,7 @@
       "name": "Student 78",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-078",
+      "seat_number": "D18",
       "id": "78",
       "email": "U20230078@university.com"
     },
@@ -707,7 +707,7 @@
       "name": "Student 79",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-079",
+      "seat_number": "D19",
       "id": "79",
       "email": "U20230079@university.com"
     },
@@ -716,7 +716,7 @@
       "name": "Student 80",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-080",
+      "seat_number": "D20",
       "id": "80",
       "email": "U20230080@university.com"
     },
@@ -725,7 +725,7 @@
       "name": "Student 81",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-081",
+      "seat_number": "E1",
       "id": "81",
       "email": "U20230081@university.com"
     },
@@ -734,7 +734,7 @@
       "name": "Student 82",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-082",
+      "seat_number": "E2",
       "id": "82",
       "email": "U20230082@university.com"
     },
@@ -743,7 +743,7 @@
       "name": "Student 83",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-083",
+      "seat_number": "E3",
       "id": "83",
       "email": "U20230083@university.com"
     },
@@ -752,7 +752,7 @@
       "name": "Student 84",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-084",
+      "seat_number": "E4",
       "id": "84",
       "email": "U20230084@university.com"
     },
@@ -761,7 +761,7 @@
       "name": "Student 85",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-085",
+      "seat_number": "E5",
       "id": "85",
       "email": "U20230085@university.com"
     },
@@ -770,7 +770,7 @@
       "name": "Student 86",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-086",
+      "seat_number": "E6",
       "id": "86",
       "email": "U20230086@university.com"
     },
@@ -779,7 +779,7 @@
       "name": "Student 87",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-087",
+      "seat_number": "E7",
       "id": "87",
       "email": "U20230087@university.com"
     },
@@ -788,7 +788,7 @@
       "name": "Student 88",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-088",
+      "seat_number": "E8",
       "id": "88",
       "email": "U20230088@university.com"
     },
@@ -797,7 +797,7 @@
       "name": "Student 89",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-089",
+      "seat_number": "E9",
       "id": "89",
       "email": "U20230089@university.com"
     },
@@ -806,7 +806,7 @@
       "name": "Student 90",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-090",
+      "seat_number": "E10",
       "id": "90",
       "email": "U20230090@university.com"
     },
@@ -815,7 +815,7 @@
       "name": "Student 91",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-091",
+      "seat_number": "E11",
       "id": "91",
       "email": "U20230091@university.com"
     },
@@ -824,7 +824,7 @@
       "name": "Student 92",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-092",
+      "seat_number": "E12",
       "id": "92",
       "email": "U20230092@university.com"
     },
@@ -833,7 +833,7 @@
       "name": "Student 93",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-093",
+      "seat_number": "E13",
       "id": "93",
       "email": "U20230093@university.com"
     },
@@ -842,7 +842,7 @@
       "name": "Student 94",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-094",
+      "seat_number": "E14",
       "id": "94",
       "email": "U20230094@university.com"
     },
@@ -851,7 +851,7 @@
       "name": "Student 95",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-095",
+      "seat_number": "E15",
       "id": "95",
       "email": "U20230095@university.com"
     },
@@ -860,7 +860,7 @@
       "name": "Student 96",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-096",
+      "seat_number": "E16",
       "id": "96",
       "email": "U20230096@university.com"
     },
@@ -869,7 +869,7 @@
       "name": "Student 97",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-097",
+      "seat_number": "E17",
       "id": "97",
       "email": "U20230097@university.com"
     },
@@ -878,7 +878,7 @@
       "name": "Student 98",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-098",
+      "seat_number": "E18",
       "id": "98",
       "email": "U20230098@university.com"
     },
@@ -887,7 +887,7 @@
       "name": "Student 99",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-099",
+      "seat_number": "E19",
       "id": "99",
       "email": "U20230099@university.com"
     },
@@ -896,7 +896,7 @@
       "name": "Student 100",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-100",
+      "seat_number": "E20",
       "id": "100",
       "email": "U20230100@university.com"
     },
@@ -905,7 +905,7 @@
       "name": "Student 101",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-101",
+      "seat_number": "F1",
       "id": "101",
       "email": "101@university.edu"
     },
@@ -914,7 +914,7 @@
       "name": "Student 102",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-102",
+      "seat_number": "F2",
       "id": "102",
       "email": "102@university.edu"
     },
@@ -923,7 +923,7 @@
       "name": "Student 103",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-103",
+      "seat_number": "F3",
       "id": "103",
       "email": "103@university.edu"
     },
@@ -932,7 +932,7 @@
       "name": "Student 104",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-104",
+      "seat_number": "F4",
       "id": "104",
       "email": "104@university.edu"
     },
@@ -941,7 +941,7 @@
       "name": "Student 105",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-105",
+      "seat_number": "F5",
       "id": "105",
       "email": "105@university.edu"
     },
@@ -950,7 +950,7 @@
       "name": "Student 106",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-106",
+      "seat_number": "F6",
       "id": "106",
       "email": "106@university.edu"
     },
@@ -959,7 +959,7 @@
       "name": "Student 107",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-107",
+      "seat_number": "F7",
       "id": "107",
       "email": "107@university.edu"
     },
@@ -968,7 +968,7 @@
       "name": "Student 108",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-108",
+      "seat_number": "F8",
       "id": "108",
       "email": "108@university.edu"
     },
@@ -977,7 +977,7 @@
       "name": "Student 109",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-109",
+      "seat_number": "F9",
       "id": "109",
       "email": "109@university.edu"
     },
@@ -986,7 +986,7 @@
       "name": "Student 110",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-110",
+      "seat_number": "F10",
       "id": "110",
       "email": "110@university.edu"
     },
@@ -995,7 +995,7 @@
       "name": "Student 111",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-111",
+      "seat_number": "F11",
       "id": "111",
       "email": "111@university.edu"
     },
@@ -1004,7 +1004,7 @@
       "name": "Student 112",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-112",
+      "seat_number": "F12",
       "id": "112",
       "email": "112@university.edu"
     },
@@ -1013,7 +1013,7 @@
       "name": "Student 113",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-113",
+      "seat_number": "F13",
       "id": "113",
       "email": "113@university.edu"
     },
@@ -1022,7 +1022,7 @@
       "name": "Student 114",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-114",
+      "seat_number": "F14",
       "id": "114",
       "email": "114@university.edu"
     },
@@ -1031,7 +1031,7 @@
       "name": "Student 115",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-115",
+      "seat_number": "F15",
       "id": "115",
       "email": "115@university.edu"
     },
@@ -1040,7 +1040,7 @@
       "name": "Student 116",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-116",
+      "seat_number": "F16",
       "id": "116",
       "email": "116@university.edu"
     },
@@ -1049,7 +1049,7 @@
       "name": "Student 117",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-117",
+      "seat_number": "F17",
       "id": "117",
       "email": "117@university.edu"
     },
@@ -1058,7 +1058,7 @@
       "name": "Student 118",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-118",
+      "seat_number": "F18",
       "id": "118",
       "email": "118@university.edu"
     },
@@ -1067,7 +1067,7 @@
       "name": "Student 119",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-119",
+      "seat_number": "F19",
       "id": "119",
       "email": "119@university.edu"
     },
@@ -1076,7 +1076,7 @@
       "name": "Student 120",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-120",
+      "seat_number": "F20",
       "id": "120",
       "email": "120@university.edu"
     },
@@ -1085,7 +1085,7 @@
       "name": "Student 121",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-121",
+      "seat_number": "G1",
       "id": "121",
       "email": "121@university.edu"
     },
@@ -1094,7 +1094,7 @@
       "name": "Student 122",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-122",
+      "seat_number": "G2",
       "id": "122",
       "email": "122@university.edu"
     },
@@ -1103,7 +1103,7 @@
       "name": "Student 123",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-123",
+      "seat_number": "G3",
       "id": "123",
       "email": "123@university.edu"
     },
@@ -1112,7 +1112,7 @@
       "name": "Student 124",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-124",
+      "seat_number": "G4",
       "id": "124",
       "email": "124@university.edu"
     },
@@ -1121,7 +1121,7 @@
       "name": "Student 125",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-125",
+      "seat_number": "G5",
       "id": "125",
       "email": "125@university.edu"
     },
@@ -1130,7 +1130,7 @@
       "name": "Student 126",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-126",
+      "seat_number": "G6",
       "id": "126",
       "email": "126@university.edu"
     },
@@ -1139,7 +1139,7 @@
       "name": "Student 127",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-127",
+      "seat_number": "G7",
       "id": "127",
       "email": "127@university.edu"
     },
@@ -1148,7 +1148,7 @@
       "name": "Student 128",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-128",
+      "seat_number": "G8",
       "id": "128",
       "email": "128@university.edu"
     },
@@ -1157,7 +1157,7 @@
       "name": "Student 129",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-129",
+      "seat_number": "G9",
       "id": "129",
       "email": "129@university.edu"
     },
@@ -1166,7 +1166,7 @@
       "name": "Student 130",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-130",
+      "seat_number": "G10",
       "id": "130",
       "email": "130@university.edu"
     },
@@ -1175,7 +1175,7 @@
       "name": "Student 131",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-131",
+      "seat_number": "G11",
       "id": "131",
       "email": "131@university.edu"
     },
@@ -1184,7 +1184,7 @@
       "name": "Student 132",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-132",
+      "seat_number": "G12",
       "id": "132",
       "email": "132@university.edu"
     },
@@ -1193,7 +1193,7 @@
       "name": "Student 133",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-133",
+      "seat_number": "G13",
       "id": "133",
       "email": "133@university.edu"
     },
@@ -1202,7 +1202,7 @@
       "name": "Student 134",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-134",
+      "seat_number": "G14",
       "id": "134",
       "email": "134@university.edu"
     },
@@ -1211,7 +1211,7 @@
       "name": "Student 135",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-135",
+      "seat_number": "G15",
       "id": "135",
       "email": "135@university.edu"
     },
@@ -1220,7 +1220,7 @@
       "name": "Student 136",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-136",
+      "seat_number": "G16",
       "id": "136",
       "email": "136@university.edu"
     },
@@ -1229,7 +1229,7 @@
       "name": "Student 137",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-137",
+      "seat_number": "G17",
       "id": "137",
       "email": "137@university.edu"
     },
@@ -1238,7 +1238,7 @@
       "name": "Student 138",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-138",
+      "seat_number": "G18",
       "id": "138",
       "email": "138@university.edu"
     },
@@ -1247,7 +1247,7 @@
       "name": "Student 139",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-139",
+      "seat_number": "G19",
       "id": "139",
       "email": "139@university.edu"
     },
@@ -1256,7 +1256,7 @@
       "name": "Student 140",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-140",
+      "seat_number": "G20",
       "id": "140",
       "email": "140@university.edu"
     },
@@ -1265,7 +1265,7 @@
       "name": "Student 141",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-141",
+      "seat_number": "H1",
       "id": "141",
       "email": "141@university.edu"
     },
@@ -1274,7 +1274,7 @@
       "name": "Student 142",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-142",
+      "seat_number": "H2",
       "id": "142",
       "email": "142@university.edu"
     },
@@ -1283,7 +1283,7 @@
       "name": "Student 143",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-143",
+      "seat_number": "H3",
       "id": "143",
       "email": "143@university.edu"
     },
@@ -1292,7 +1292,7 @@
       "name": "Student 144",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-144",
+      "seat_number": "H4",
       "id": "144",
       "email": "144@university.edu"
     },
@@ -1301,7 +1301,7 @@
       "name": "Student 145",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-145",
+      "seat_number": "H5",
       "id": "145",
       "email": "145@university.edu"
     },
@@ -1310,7 +1310,7 @@
       "name": "Student 146",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-146",
+      "seat_number": "H6",
       "id": "146",
       "email": "146@university.edu"
     },
@@ -1319,7 +1319,7 @@
       "name": "Student 147",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-147",
+      "seat_number": "H7",
       "id": "147",
       "email": "147@university.edu"
     },
@@ -1328,7 +1328,7 @@
       "name": "Student 148",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-148",
+      "seat_number": "H8",
       "id": "148",
       "email": "148@university.edu"
     },
@@ -1337,7 +1337,7 @@
       "name": "Student 149",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-149",
+      "seat_number": "H9",
       "id": "149",
       "email": "149@university.edu"
     },
@@ -1346,7 +1346,7 @@
       "name": "Student 150",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-150",
+      "seat_number": "H10",
       "id": "150",
       "email": "150@university.edu"
     },
@@ -1355,7 +1355,7 @@
       "name": "Student 151",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-151",
+      "seat_number": "H11",
       "id": "151",
       "email": "student151@university.com"
     },
@@ -1364,7 +1364,7 @@
       "name": "Student 152",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-152",
+      "seat_number": "H12",
       "id": "152",
       "email": "student152@university.com"
     },
@@ -1373,7 +1373,7 @@
       "name": "Student 153",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-153",
+      "seat_number": "H13",
       "id": "153",
       "email": "student153@university.com"
     },
@@ -1382,7 +1382,7 @@
       "name": "Student 154",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-154",
+      "seat_number": "H14",
       "id": "154",
       "email": "student154@university.com"
     },
@@ -1391,7 +1391,7 @@
       "name": "Student 155",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-155",
+      "seat_number": "H15",
       "id": "155",
       "email": "student155@university.com"
     },
@@ -1400,7 +1400,7 @@
       "name": "Student 156",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-156",
+      "seat_number": "H16",
       "id": "156",
       "email": "student156@university.com"
     },
@@ -1409,7 +1409,7 @@
       "name": "Student 157",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-157",
+      "seat_number": "H17",
       "id": "157",
       "email": "student157@university.com"
     },
@@ -1418,7 +1418,7 @@
       "name": "Student 158",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-158",
+      "seat_number": "H18",
       "id": "158",
       "email": "student158@university.com"
     },
@@ -1427,7 +1427,7 @@
       "name": "Student 159",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-159",
+      "seat_number": "H19",
       "id": "159",
       "email": "student159@university.com"
     },
@@ -1436,7 +1436,7 @@
       "name": "Student 160",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-160",
+      "seat_number": "H20",
       "id": "160",
       "email": "student160@university.com"
     },
@@ -1445,7 +1445,7 @@
       "name": "Student 161",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-161",
+      "seat_number": "I1",
       "id": "161",
       "email": "student161@university.com"
     },
@@ -1454,7 +1454,7 @@
       "name": "Student 162",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-162",
+      "seat_number": "I2",
       "id": "162",
       "email": "student162@university.com"
     },
@@ -1463,7 +1463,7 @@
       "name": "Student 163",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-163",
+      "seat_number": "I3",
       "id": "163",
       "email": "student163@university.com"
     },
@@ -1472,7 +1472,7 @@
       "name": "Student 164",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-164",
+      "seat_number": "I4",
       "id": "164",
       "email": "student164@university.com"
     },
@@ -1481,7 +1481,7 @@
       "name": "Student 165",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-165",
+      "seat_number": "I5",
       "id": "165",
       "email": "student165@university.com"
     },
@@ -1490,7 +1490,7 @@
       "name": "Student 166",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-166",
+      "seat_number": "I6",
       "id": "166",
       "email": "student166@university.com"
     },
@@ -1499,7 +1499,7 @@
       "name": "Student 167",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-167",
+      "seat_number": "I7",
       "id": "167",
       "email": "student167@university.com"
     },
@@ -1508,7 +1508,7 @@
       "name": "Student 168",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-168",
+      "seat_number": "I8",
       "id": "168",
       "email": "student168@university.com"
     },
@@ -1517,7 +1517,7 @@
       "name": "Student 169",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-169",
+      "seat_number": "I9",
       "id": "169",
       "email": "student169@university.com"
     },
@@ -1526,7 +1526,7 @@
       "name": "Student 170",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-170",
+      "seat_number": "I10",
       "id": "170",
       "email": "student170@university.com"
     },
@@ -1535,7 +1535,7 @@
       "name": "Student 171",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-171",
+      "seat_number": "I11",
       "id": "171",
       "email": "student171@university.com"
     },
@@ -1544,7 +1544,7 @@
       "name": "Student 172",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-172",
+      "seat_number": "I12",
       "id": "172",
       "email": "student172@university.com"
     },
@@ -1553,7 +1553,7 @@
       "name": "Student 173",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-173",
+      "seat_number": "I13",
       "id": "173",
       "email": "student173@university.com"
     },
@@ -1562,7 +1562,7 @@
       "name": "Student 174",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-174",
+      "seat_number": "I14",
       "id": "174",
       "email": "student174@university.com"
     },
@@ -1571,7 +1571,7 @@
       "name": "Student 175",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-175",
+      "seat_number": "I15",
       "id": "175",
       "email": "student175@university.com"
     },
@@ -1580,7 +1580,7 @@
       "name": "Student 176",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-176",
+      "seat_number": "I16",
       "id": "176",
       "email": "student176@university.com"
     },
@@ -1589,7 +1589,7 @@
       "name": "Student 177",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-177",
+      "seat_number": "I17",
       "id": "177",
       "email": "student177@university.com"
     },
@@ -1598,7 +1598,7 @@
       "name": "Student 178",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-178",
+      "seat_number": "I18",
       "id": "178",
       "email": "student178@university.com"
     },
@@ -1607,7 +1607,7 @@
       "name": "Student 179",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-179",
+      "seat_number": "I19",
       "id": "179",
       "email": "student179@university.com"
     },
@@ -1616,7 +1616,7 @@
       "name": "Student 180",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-180",
+      "seat_number": "I20",
       "id": "180",
       "email": "student180@university.com"
     },
@@ -1625,7 +1625,7 @@
       "name": "Student 181",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-181",
+      "seat_number": "J1",
       "id": "181",
       "email": "student181@university.com"
     },
@@ -1634,7 +1634,7 @@
       "name": "Student 182",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-182",
+      "seat_number": "J2",
       "id": "182",
       "email": "student182@university.com"
     },
@@ -1643,7 +1643,7 @@
       "name": "Student 183",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-183",
+      "seat_number": "J3",
       "id": "183",
       "email": "student183@university.com"
     },
@@ -1652,7 +1652,7 @@
       "name": "Student 184",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-184",
+      "seat_number": "J4",
       "id": "184",
       "email": "student184@university.com"
     },
@@ -1661,7 +1661,7 @@
       "name": "Student 185",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-185",
+      "seat_number": "J5",
       "id": "185",
       "email": "student185@university.com"
     },
@@ -1670,7 +1670,7 @@
       "name": "Student 186",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-186",
+      "seat_number": "J6",
       "id": "186",
       "email": "student186@university.com"
     },
@@ -1679,7 +1679,7 @@
       "name": "Student 187",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-187",
+      "seat_number": "J7",
       "id": "187",
       "email": "student187@university.com"
     },
@@ -1688,7 +1688,7 @@
       "name": "Student 188",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-188",
+      "seat_number": "J8",
       "id": "188",
       "email": "student188@university.com"
     },
@@ -1697,7 +1697,7 @@
       "name": "Student 189",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-189",
+      "seat_number": "J9",
       "id": "189",
       "email": "student189@university.com"
     },
@@ -1706,7 +1706,7 @@
       "name": "Student 190",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-190",
+      "seat_number": "J10",
       "id": "190",
       "email": "student190@university.com"
     },
@@ -1715,7 +1715,7 @@
       "name": "Student 191",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-191",
+      "seat_number": "J11",
       "id": "191",
       "email": "student191@university.com"
     },
@@ -1724,7 +1724,7 @@
       "name": "Student 192",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-192",
+      "seat_number": "J12",
       "id": "192",
       "email": "student192@university.com"
     },
@@ -1733,7 +1733,7 @@
       "name": "Student 193",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-193",
+      "seat_number": "J13",
       "id": "193",
       "email": "student193@university.com"
     },
@@ -1742,7 +1742,7 @@
       "name": "Student 194",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-194",
+      "seat_number": "J14",
       "id": "194",
       "email": "student194@university.com"
     },
@@ -1751,7 +1751,7 @@
       "name": "Student 195",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-195",
+      "seat_number": "J15",
       "id": "195",
       "email": "student195@university.com"
     },
@@ -1760,7 +1760,7 @@
       "name": "Student 196",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-196",
+      "seat_number": "J16",
       "id": "196",
       "email": "student196@university.com"
     },
@@ -1769,7 +1769,7 @@
       "name": "Student 197",
       "department": "Electronics",
       "year": 2024,
-      "seat_number": "A-197",
+      "seat_number": "J17",
       "id": "197",
       "email": "student197@university.com"
     },
@@ -1778,7 +1778,7 @@
       "name": "Student 198",
       "department": "Mechanical",
       "year": 2024,
-      "seat_number": "A-198",
+      "seat_number": "J18",
       "id": "198",
       "email": "student198@university.com"
     },
@@ -1787,7 +1787,7 @@
       "name": "Student 199",
       "department": "Civil",
       "year": 2024,
-      "seat_number": "A-199",
+      "seat_number": "J19",
       "id": "199",
       "email": "student199@university.com"
     },
@@ -1796,7 +1796,7 @@
       "name": "Student 200",
       "department": "Computer Science",
       "year": 2024,
-      "seat_number": "A-200",
+      "seat_number": "J20",
       "id": "200",
       "email": "student200@university.com"
     }
